@@ -1,21 +1,6 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @smartjakky
-Sign out
- Watch 0
- Star 0  Fork 0 smartjakky/smart
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Branch: master Find file Copy path smart/.gitignore
-56c2696  3 minutes ago
-@smartjakky smartjakky Initial commit
-1 contributor
-RawBlameHistory
-105 lines (84 sloc)  1.17 KB
+# PyCharm
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -120,16 +105,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
-Press h to open a hovercard with more details.
