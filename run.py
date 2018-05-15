@@ -14,7 +14,7 @@ class Scheduler(object):
         self.parser.parse()
 
     def run(self):
-        self.download_page()
+        # self.download_page()
         self.parse_and_save()
 
 
